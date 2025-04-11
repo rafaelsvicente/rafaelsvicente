@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Rafael Vicente
 
-🎓 Estudante de Programação para Web, Dispositivos e Aplicações Móveis no Instituto Piaget  
+🎓 Estudante de Programação em Web e Desenvolvimento para Dispositivos e Aplicações Móveis no Instituto Piaget  
 💡 Interesses: Desenvolvimento de Software, Inteligência Artificial, Desenvolvimento Web, Base de Dados <br>
 🔧 Tecnologias: Python, C, Java, JavaScript, HTML, CSS, SQL, Git
 
